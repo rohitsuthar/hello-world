@@ -1,0 +1,14 @@
+{
+    "name": "rohitsuthar/hello-world",
+    "authors": [
+        {
+            "name": "rohitsuthar"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
